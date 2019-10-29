@@ -1,0 +1,2127 @@
+# depslib dependency file v1.0
+1381892203 source:c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\main.cpp
+	<stdio.h>
+	"CJogo.h"
+
+1381885927 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\cjogo.h
+	"stdlib.h"
+	"time.h"
+	"math.h"
+	"string.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	"CObjeto.h"
+	"CTimer.h"
+	"CGeradorParticulas.h"
+
+1376160144 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_config.h
+	"SDL_platform.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\begin_code.h
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\close_code.h
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<intrin.h>
+	<libkern/OSAtomic.h>
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381892390 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\cobjeto.h
+
+1381541421 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\ctimer.h
+
+1381706725 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\cparticula.h
+
+1381804471 c:\users\andre\documents\disciplinas\puro\prog i\codigos\projeto\include\cgeradorparticulas.h
+	"CParticula.h"
+
+1409082271 source:c:\users\andre\documents\disciplinas\puro\prog i\projeto\main.cpp
+	"PIG.h"
+
+1412952066 c:\users\andre\documents\disciplinas\puro\prog i\projeto\pig.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	"SDL_image.h"
+	"Tipos_PIG.h"
+	"CJogo.h"
+
+1412951285 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\cjogo.h
+	"CObjeto.h"
+	"CTimer.h"
+	"CGeradorParticulas.h"
+	"CAnimacao.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_config.h
+	"SDL_platform.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\begin_code.h
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\close_code.h
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<intrin.h>
+	<libkern/OSAtomic.h>
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1384898404 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376156544 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1412962006 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\cobjeto.h
+
+1386163291 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\ctimer.h
+
+1386161688 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\cgeradorparticulas.h
+	"CParticula.h"
+
+1385418460 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\cparticula.h
+
+1411775197 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\tipos_pig.h
+
+1387902003 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\canimacao.h
+
+1412559185 source:c:\users\andre\documents\disciplinas\puro\prog i\projeto\quebracabeca.cpp
+	"PIG.h"
+
+1376276358 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl\sdl_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1412493424 source:c:\users\andre\documents\disciplinas\puro\prog i\projeto\duelo_canhoes.cpp
+	"PIG.h"
+
+1376141916 c:\users\andre\documents\disciplinas\pesquisa\coloracao_arestas\sdl2_image-2.0.0\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376141916 c:\users\andre\documents\disciplinas\puro\prog i\projeto\include\sdl_image\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1412122050 source:c:\users\andre\documents\disciplinas\puro\prog i\projeto\avioes.cpp
+	"PIG.h"
+	"math.h"
+
+1412949153 source:c:\users\andre\documents\disciplinas\puro\prog i\projeto\jogo_nave.cpp
+	"PIG.h"
+
+1412961889 source:c:\users\andre\documents\disciplinas\puro\prog i\projeto\tempestade.cpp
+	"PIG.h"
+
+1416940358 source:c:\users\lucas\desktop\super tubarão\main.cpp
+	"PIG.h"
+
+1412955666 c:\users\lucas\desktop\super tubarão\pig.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	"SDL_image.h"
+	"Tipos_PIG.h"
+	"CJogo.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_config.h
+	"SDL_platform.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\begin_code.h
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\close_code.h
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<intrin.h>
+	<libkern/OSAtomic.h>
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1384898404 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376160144 c:\users\lucas\desktop\super tubarão\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376145516 c:\users\lucas\desktop\super tubarão\include\sdl_image\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1411778797 c:\users\lucas\desktop\super tubarão\include\tipos_pig.h
+
+1413691801 c:\users\lucas\desktop\super tubarão\include\cjogo.h
+	"CObjeto.h"
+	"CTimer.h"
+	"CGeradorParticulas.h"
+
+1412965606 c:\users\lucas\desktop\super tubarão\include\cobjeto.h
+
+1386163291 c:\users\lucas\desktop\super tubarão\include\ctimer.h
+
+1386161688 c:\users\lucas\desktop\super tubarão\include\cgeradorparticulas.h
+	"CParticula.h"
+
+1385418460 c:\users\lucas\desktop\super tubarão\include\cparticula.h
+
+1417115312 source:c:\users\lucas\documents\super tubarão\main.cpp
+	"PIG.h"
+
+1412955666 c:\users\lucas\documents\super tubarão\pig.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	"SDL_image.h"
+	"Tipos_PIG.h"
+	"CJogo.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_config.h
+	"SDL_platform.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\begin_code.h
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\close_code.h
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<intrin.h>
+	<libkern/OSAtomic.h>
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1384898404 c:\users\lucas\documents\super tubarão\include\sdl\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 c:\users\lucas\documents\super tubarão\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376160144 c:\users\lucas\documents\super tubarão\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376145516 c:\users\lucas\documents\super tubarão\include\sdl_image\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1411778797 c:\users\lucas\documents\super tubarão\include\tipos_pig.h
+
+1413691801 c:\users\lucas\documents\super tubarão\include\cjogo.h
+	"CObjeto.h"
+	"CTimer.h"
+	"CGeradorParticulas.h"
+
+1412965606 c:\users\lucas\documents\super tubarão\include\cobjeto.h
+
+1386163291 c:\users\lucas\documents\super tubarão\include\ctimer.h
+
+1386161688 c:\users\lucas\documents\super tubarão\include\cgeradorparticulas.h
+	"CParticula.h"
+
+1385418460 c:\users\lucas\documents\super tubarão\include\cparticula.h
+
+1417298340 source:g:\super tubarão\main.cpp
+	"PIG.h"
+
+1412955668 g:\super tubarão\pig.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	"SDL_image.h"
+	"Tipos_PIG.h"
+	"CJogo.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_config.h
+	"SDL_platform.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\begin_code.h
+
+1376279958 g:\super tubarão\include\sdl\close_code.h
+
+1376279958 g:\super tubarão\include\sdl\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<intrin.h>
+	<libkern/OSAtomic.h>
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1384894806 g:\super tubarão\include\sdl\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 g:\super tubarão\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376160144 g:\super tubarão\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376145516 g:\super tubarão\include\sdl_image\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1411778798 g:\super tubarão\include\tipos_pig.h
+
+1413688202 g:\super tubarão\include\cjogo.h
+	"CObjeto.h"
+	"CTimer.h"
+	"CGeradorParticulas.h"
+
+1412965608 g:\super tubarão\include\cobjeto.h
+
+1386159692 g:\super tubarão\include\ctimer.h
+
+1386158090 g:\super tubarão\include\cgeradorparticulas.h
+	"CParticula.h"
+
+1385414862 g:\super tubarão\include\cparticula.h
+
+1417400918 source:e:\super tubarão\main.cpp
+	"PIG.h"
+
+1412955668 e:\super tubarão\pig.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	"SDL_image.h"
+	"Tipos_PIG.h"
+	"CJogo.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_config.h
+	"SDL_platform.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\begin_code.h
+
+1376279958 e:\super tubarão\include\sdl\close_code.h
+
+1376279958 e:\super tubarão\include\sdl\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<intrin.h>
+	<libkern/OSAtomic.h>
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1384894806 e:\super tubarão\include\sdl\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376279958 e:\super tubarão\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376160144 e:\super tubarão\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376145516 e:\super tubarão\include\sdl_image\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1411778798 e:\super tubarão\include\tipos_pig.h
+
+1413688202 e:\super tubarão\include\cjogo.h
+	"CObjeto.h"
+	"CTimer.h"
+	"CGeradorParticulas.h"
+
+1412965608 e:\super tubarão\include\cobjeto.h
+
+1386159692 e:\super tubarão\include\ctimer.h
+
+1386158090 e:\super tubarão\include\cgeradorparticulas.h
+	"CParticula.h"
+
+1385414862 e:\super tubarão\include\cparticula.h
+
