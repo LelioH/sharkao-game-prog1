@@ -1,7 +1,7 @@
-<img src="./imagens/sharkao.png" align="center"></img>
+<img src="../imagens/sharkao.png" align="center" width="50%" height="50%"></img>
 
-<h1>Sharkao Game</h1>
-<p>Projeto criado para disciplina de<strong> Programação 1</strong> da<strong> Universidade Federal Fluminense</strong></p>
+<h1 align="center">Sharkão Game</h1>
+<p align="center">Projeto criado para disciplina de<strong> Programação 1</strong> da<strong> Universidade Federal Fluminense</strong></p>
 <p align="center">
   <a href="#-sobre">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-informacoes-adicionais">Informações Adicionais</a>
