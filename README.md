@@ -1,4 +1,4 @@
-<img src="../imagens/sharkao.png" align="center" width="112" height="200"></img>
+<img src="./imagens/sharkao.png" align="center" width="112" height="200"></img>
 
 <h1 align="center">Sharkão Game</h1>
 <p align="center">Projeto criado para disciplina de<strong> Programação 1</strong> da<strong> Universidade Federal Fluminense</strong></p>
